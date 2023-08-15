@@ -8,10 +8,15 @@
 Obtenha seu "User-Agent": Para personalizar o User-Agent da sua requisição HTTP, você pode seguir as instruções abaixo:
 
 *Abra o navegador de sua preferência.
+
 *Pesquise "User-Agent String" no mecanismo de busca.
+
 *Copie a string do User-Agent fornecida pelo site.
+
 *cole na variável "headers"
 
 Observações
+
 *Certifique-se de que o Python e o pip estão instalados no seu sistema.
+
 *A customização do User-Agent é importante para evitar bloqueios ou restrições ao acessar sites usando web scraping.

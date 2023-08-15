@@ -1,9 +1,12 @@
 # web_scraping
  Projeto de Web Scraping Básico
 
- Este é um projeto de exemplo que demonstra como realizar web scraping básico usando Python. Neste projeto, usamos as bibliotecas requests e BeautifulSoup para extrair informações de um site específico.
+ Este é um projeto de exemplo que demonstra como realizar web scraping básico usando Python. Neste projeto, usei as bibliotecas requests e BeautifulSoup para extrair informações de um site específico.
 
- Para rodar o programa, certifique de ter todas as bibliotecas instaladas.
+ Para rodar o programa, certifique de ter todas as bibliotecas necessárias instaladas.
+
+
+
  
 Obtenha seu "User-Agent": Para personalizar o User-Agent da sua requisição HTTP, você pode seguir as instruções abaixo:
 
@@ -15,8 +18,10 @@ Obtenha seu "User-Agent": Para personalizar o User-Agent da sua requisição HTT
 
 *cole na variável "headers"
 
-Observações
 
-*Certifique-se de que o Python e o pip estão instalados no seu sistema.
+
+
+Observações:
+
 
 *A customização do User-Agent é importante para evitar bloqueios ou restrições ao acessar sites usando web scraping.
